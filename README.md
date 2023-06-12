@@ -1,8 +1,23 @@
 # WK plugin
 A PyMol plugin for calculationg Wu-Kabat Variability and displaying it on the pdb model
 
+## Requirements
 
-## Quick Instal Guide
+Make sure you have the following dependencies installed before using this PyMOL plugin:
+
+- PyMOL: [Official PyMOL website](https://pymol.org/)
+    - Installation instructions: [PyMOL Installation Guide](https://pymol.org/installation/)
+
+- Additional Python packages:
+    - NumPy: [NumPy docs]([link-to-package-1-docs](https://numpy.org/doc/stable/))
+    - matplotlib: [matplotlib documentation](https://matplotlib.org/stable/index.html)
+
+You can also clone the repository and 
+```shell 
+pip install -r requirements.txt
+
+
+## Quick Install Guide
 
 To install this PyMOL plugin from a GitHub release, follow the steps below:
 
