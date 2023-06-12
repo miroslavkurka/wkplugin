@@ -1,5 +1,5 @@
 # WK plugin
-A PyMol plugin for calculationg Wu-Kabat Variability and displaying it on the pdb model
+A PyMol plugin for calculating Wu-Kabat Variability and displaying it on the pdb model
 
 ## Requirements
 
