@@ -15,7 +15,7 @@ Make sure you have the following dependencies installed before using this PyMOL 
 You can also clone the repository and 
 ```shell 
 pip install -r requirements.txt
-
+```
 
 ## Quick Install Guide
 
