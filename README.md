@@ -5,7 +5,7 @@ A PyMol plugin for calculationg Wu-Kabat Variability and displaying it on the pd
 
 Make sure you have the following dependencies installed before using this PyMOL plugin:
 
-- PyMOL: [Official PyMOL website](https://pymol.org/)
+- PyMOL 2.x: [Official PyMOL website](https://pymol.org/)
     - Installation instructions: [PyMOL Installation Guide](https://pymol.org/installation/)
 
 - Additional Python packages:
