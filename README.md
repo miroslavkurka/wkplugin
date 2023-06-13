@@ -41,4 +41,4 @@ To install this PyMOL plugin from a GitHub release, follow the steps below:
 ## FAQ 
 
 * Q: Why is it a zip file?
-A: PyMOL
+* A: PyMOL
