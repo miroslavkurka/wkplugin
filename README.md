@@ -38,3 +38,7 @@ To install this PyMOL plugin from a GitHub release, follow the steps below:
 8. The plugin should now be installed and available for use in PyMOL. You can access its functionality through the PyMOL interface or by using specific command-line commands associated with the plugin.
 
 
+## FAQ 
+
+* Q: Why is it a zip file?
+A: PyMOL
