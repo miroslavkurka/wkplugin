@@ -1,5 +1,7 @@
-# WK plugin
+# WK plugin - now porting to PyQt6 
 A PyMol plugin for calculating Wu-Kabat Variability and displaying it on the pdb model
+
+
 
 ## Requirements
 
